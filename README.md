@@ -23,5 +23,5 @@ This demo is follow the [Android](https://pytorch.org/) resnet18 demo.
 
 After pytorch 1.3, pytorch model can be easily deploy to android, see [details](https://blog.csdn.net/IEEE_FELLOW/article/details/108420007) for how to deploy ur pytorch model.
 
-![](demo.jpg)
+![](./demo.jpg)
 
